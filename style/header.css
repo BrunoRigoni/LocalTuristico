@@ -1,0 +1,18 @@
+.img1{
+
+    width: 1120px;
+    height: 660px;
+    object-fit: cover;
+    border-radius: 28px;
+    margin: 40px auto 24px;
+
+}
+
+header {
+    gap: 8px;
+}
+
+.description {
+    text-align: center;
+}
+

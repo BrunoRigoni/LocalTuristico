@@ -1,0 +1,23 @@
+.card {
+    margin-top: 64px;
+}
+
+ul {
+    margin-top: 24px;
+}
+
+li {
+    margin-left: 20px;
+    font: var(--ul);
+    color: var(--accent-blue);
+}
+
+li:nth-last-child(3) {
+    color: var(--accent-purple);
+}
+li:nth-last-child(2) {
+    color: var(--accent-pink);
+}
+li:nth-child(3) {
+    color: var(--accent-orange);
+}
