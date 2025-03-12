@@ -25,17 +25,17 @@
 
     --font-family: "Open Sans", sans-serif;
 
-    --h1: 36px bold;
+    --h1: 36px bold var(--font-family);
 
-    --h2: 32px bold;
+    --h2: 32px bold var(--font-family);
 
-    --h3: 28px bold;
+    --h3: 28px bold var(--font-family);
 
-    --headline: 16px bold;
+    --headline: 16px bold var(--font-family);
     
-    --paragraph: 16px normal; 
+    --paragraph: 16px normal var(--font-family); 
     
-    --subtitle: 16px italic;
+    --subtitle: 16px italic var(--font-family);
 
 }
 
