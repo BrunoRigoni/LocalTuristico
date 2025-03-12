@@ -3,3 +3,39 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+:root {
+    /*background colors*/
+    --bg-color: #f5f4f0;
+    --border-primary: #d9d9d9;
+
+    /*text colors*/
+    --text-primary: #1b1b1b;
+    --text-secondary: #333333;
+    --text-tertiary: #696969;
+    --text-headline: #e1624f;
+
+    /*accent colors*/
+    --accent-blue: #0C51A7;
+    --accent-orange: #E95E10;
+    --accent-pink: #E5245E;
+    --accent-purple: #591B98;
+
+    /*typography*/
+
+    --font-family: "Open Sans", sans-serif;
+
+    --h1: 36px bold;
+
+    --h2: 32px bold;
+
+    --h3: 28px bold;
+
+    --headline: 16px bold;
+    
+    --paragraph: 16px normal; 
+    
+    --subtitle: 16px italic;
+
+}
+
